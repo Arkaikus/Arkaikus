@@ -31,7 +31,11 @@ Here are my different profiles if you're interested, feel free to reaching out
 - [Python (2021)](https://www.hackerrank.com/certificates/4971d1984d47)
 - [Javascript (2021)](https://www.hackerrank.com/certificates/74504f050cc2)
 - [React(2021)](https://www.hackerrank.com/certificates/ae2281c24eb4)
-- [Rest API (2021)](https://www.hackerrank.com/certificates/4971d1984d47)
+- [Rest API (2021)](https://www.hackerrank.com/certificates/bba9c301195a)
+
+#### EFSet
+
+- [English Certificate 72/100 (C2 Proficient)(2020)](https://www.efset.org/cert/pWdvMy)
 
 ### Skills
 * * *
