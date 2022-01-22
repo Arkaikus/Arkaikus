@@ -19,6 +19,8 @@ My name is Santiago Andrés Giraldo Alegría, I'm a Systems Engineer from Cali, 
 
 I'm currently MEng student at [Universidad del Valle](http://ingenieria.univalle.edu.co/maestrias/maestria-en-ingenieria-area-de-enfasis-ingenieria-de-sistemas-y-computacion)
 
+I'm currently working at [Gearplug](https://gearplug.io/en/)
+
 Here are my different profiles if you're interested, feel free to reaching out
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/santiagogiraldoalegria)
