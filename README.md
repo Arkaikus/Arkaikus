@@ -22,3 +22,40 @@ Here are my different profiles if you're interested, feel free to reaching out
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/santiagogiraldoalegria)
 [![Torre.co](https://img.shields.io/badge/T-Torre-green?style=for-the-badge)](https://torre.co/giraldosantiago)
 [![Github.io](https://img.shields.io/badge/Github.io-black?logo=github&style=for-the-badge)](https://arkaikus.github.io/)
+
+
+### Skills
+* * *
+
+#### Programming Languages
+- Python (Advanced)
+- Php (Intermediate)
+- C++ (Intermediate)
+- Java (Intermediate)
+
+#### Web Development
+##### Frontend 
+- Html
+- Css
+- Bootstrap
+- Javascript (Intermediate-Advanced)
+  - jQuery (Intermediate-Advanced)
+  - Typescript (Basic-Intermediate)
+  - React (Basic-Intermediate)
+  - PouchDB (Basic)
+
+##### Backend
+- Django (Intermediate-Advanced)
+- Django Rest Framework (Intermediate)
+- Flask (Basic-Intermediate)
+
+#### Version Control
+- Git (Intermediate-Advanced)
+  - Gitkraken
+  - Github
+  - Bitbucket
+
+#### Virtualization Technologies
+- Docker (Intermediate)
+- Docker Compose (Intermediate)
+- LXD (Basic)
