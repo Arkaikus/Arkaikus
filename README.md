@@ -23,9 +23,10 @@ I'm currently working at [Gearplug](https://gearplug.io/en/)
 
 Here are my different profiles if you're interested, feel free to reach out
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/santiagogiraldoalegria)
-[![Torre.co](https://img.shields.io/badge/T-Torre.co-green?style=for-the-badge)](https://torre.co/giraldosantiago)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-2894ff.svg?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/santiagogiraldoalegria)
+[![Torre.co](https://img.shields.io/badge/T-Torre.co-cddc39.svg?style=for-the-badge)](https://torre.co/giraldosantiago)
 [![Github.io](https://img.shields.io/badge/Github.io-black?logo=github&style=for-the-badge)](https://arkaikus.github.io/)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-39424e.svg?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/giraldo_santiago)
 
 ### Certificates
 ***
@@ -47,13 +48,15 @@ Here are my different profiles if you're interested, feel free to reach out
 - Php (Intermediate)
 - C++ (Intermediate)
 - Java (Intermediate)
+- JavaScript (Intermediate-Advanced)
+- Ruby (Basic)
 
 #### Web Development
 ##### Frontend 
 - Html
 - Css
 - Bootstrap
-- Javascript (Intermediate-Advanced)
+- JavaScript (Intermediate-Advanced)
   - jQuery (Intermediate-Advanced)
   - Typescript (Basic-Intermediate)
   - React (Basic-Intermediate)
@@ -74,3 +77,6 @@ Here are my different profiles if you're interested, feel free to reach out
 - Docker (Intermediate)
 - Docker Compose (Intermediate)
 - LXD (Basic)
+
+#### IaaS
+- Heroku (Intermediate)
