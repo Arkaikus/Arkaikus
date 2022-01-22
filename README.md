@@ -21,7 +21,7 @@ I'm currently MEng student at [Universidad del Valle](http://ingenieria.univalle
 
 I'm currently working at [Gearplug](https://gearplug.io/en/)
 
-Here are my different profiles if you're interested, feel free to reaching out
+Here are my different profiles if you're interested, feel free to reach out
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/santiagogiraldoalegria)
 [![Torre.co](https://img.shields.io/badge/T-Torre-green?style=for-the-badge)](https://torre.co/giraldosantiago)
