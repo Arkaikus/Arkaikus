@@ -25,6 +25,13 @@ Here are my different profiles if you're interested, feel free to reaching out
 [![Torre.co](https://img.shields.io/badge/T-Torre-green?style=for-the-badge)](https://torre.co/giraldosantiago)
 [![Github.io](https://img.shields.io/badge/Github.io-black?logo=github&style=for-the-badge)](https://arkaikus.github.io/)
 
+### Certificates
+***
+#### Hackerrank
+- [Python (2021)](https://www.hackerrank.com/certificates/4971d1984d47)
+- [Javascript (2021)](https://www.hackerrank.com/certificates/74504f050cc2)
+- [React(2021)](https://www.hackerrank.com/certificates/ae2281c24eb4)
+- [Rest API (2021)](https://www.hackerrank.com/certificates/4971d1984d47)
 
 ### Skills
 * * *
