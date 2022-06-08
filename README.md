@@ -19,7 +19,13 @@ My name is Santiago Andrés Giraldo Alegría, I'm a Systems Engineer from Cali, 
 
 I'm currently MEng student at [Universidad del Valle](http://ingenieria.univalle.edu.co/maestrias/maestria-en-ingenieria-area-de-enfasis-ingenieria-de-sistemas-y-computacion)
 
-I'm currently working at [Gearplug](https://gearplug.io/en/)
+I've worked at:
+
+- [Univalle](https://www.univalle.edu.co/) academic project SIGELO as an Engineer and Developer with the team to create a chatbot management application
+- [Universidad Tecnológica de Pereira](https://www.utp.edu.co/) as a Teaching Assistant taking part in [MisionTIC 2022](https://www.misiontic2022.gov.co/) goverment program
+- [Gearplug](https://gearplug.io/en/) as a Software Developer and Python Backend Engineer
+
+I'm currently working as Python Consultant at [Gorilla Logic](https://gorillalogic.com/) teaming up with [Submittable](https://submittable.com/)
 
 Here are my different profiles if you're interested, feel free to reach out
 
