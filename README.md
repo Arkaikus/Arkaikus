@@ -25,7 +25,7 @@ I've worked at:
 - [Universidad Tecnológica de Pereira](https://www.utp.edu.co/) as a Teaching Assistant taking part in [MisionTIC 2022](https://www.misiontic2022.gov.co/) goverment program
 - [Gearplug](https://gearplug.io/en/) as a Software Developer and Python Backend Engineer
 
-I'm currently working as Python Consultant at [Gorilla Logic](https://gorillalogic.com/) teaming up with [Submittable](https://submittable.com/)
+I'm currently working as Python Consultant at [Gorilla Logic](https://gorillalogic.com/) teaming up with [Submittable](https://submittable.com/) as Technical Implementation Engineer
 
 Here are my different profiles if you're interested, feel free to reach out
 
