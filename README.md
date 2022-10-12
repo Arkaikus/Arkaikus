@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Santiago Andrés Giraldo Alegría, I'm a Systems Engineer from Cali, Colombia from [Universidad del Valle](http://eisc.univalle.edu.co/)
+I'm Santiago Andrés Giraldo Alegría, I'm a Systems Engineer from [Universidad del Valle](http://eisc.univalle.edu.co/), Cali, Colombia 
 
-I'm currently a MEng student at [Universidad del Valle](http://ingenieria.univalle.edu.co/maestrias/maestria-en-ingenieria-area-de-enfasis-ingenieria-de-sistemas-y-computacion)
+I'm currently a MEng student at [Universidad del Valle - EISC](http://ingenieria.univalle.edu.co/maestrias/maestria-en-ingenieria-area-de-enfasis-ingenieria-de-sistemas-y-computacion)
 
 I'm currently working as Python Consultant at [Gorilla Logic](https://gorillalogic.com/) partnering with [Submittable](https://submittable.com/) as Python Backend and Technical Implementation Engineer
 
