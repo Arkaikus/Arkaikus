@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Santiago Andrés Giraldo Alegría, I'm a Systems Engineer from Cali, Colombia graduated from [Universidad del Valle](http://eisc.univalle.edu.co/)
+My name is Santiago Andrés Giraldo Alegría, I'm a Systems Engineer from Cali, Colombia from [Universidad del Valle](http://eisc.univalle.edu.co/)
 
-I'm currently MEng student at [Universidad del Valle](http://ingenieria.univalle.edu.co/maestrias/maestria-en-ingenieria-area-de-enfasis-ingenieria-de-sistemas-y-computacion)
+I'm currently a MEng student at [Universidad del Valle](http://ingenieria.univalle.edu.co/maestrias/maestria-en-ingenieria-area-de-enfasis-ingenieria-de-sistemas-y-computacion)
 
-I've worked at:
+I'm currently working as Python Consultant at [Gorilla Logic](https://gorillalogic.com/) partnering with [Submittable](https://submittable.com/) as Python Backend and Technical Implementation Engineer
 
-- [Univalle](https://www.univalle.edu.co/) academic project SIGELO as an Engineer and Developer with the team to create a chatbot management application
+I've worked previously at:
+
+- [Univalle](https://www.univalle.edu.co/) in the academic project SIGELO as a Software Engineer and Developer in the creation of a chatbot management application
 - [Universidad Tecnológica de Pereira](https://www.utp.edu.co/) as a Teaching Assistant taking part in [MisionTIC 2022](https://www.misiontic2022.gov.co/) goverment program
 - [Gearplug](https://gearplug.io/en/) as a Software Developer and Python Backend Engineer
-
-I'm currently working as Python Consultant at [Gorilla Logic](https://gorillalogic.com/) teaming up with [Submittable](https://submittable.com/) as Technical Implementation Engineer
 
 Here are my different profiles if you're interested, feel free to reach out
 
