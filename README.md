@@ -1,35 +1,17 @@
-### Hi 👋
+### Hi, nice to meet you 👋
 
-<!--
-**Arkaikus/Arkaikus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇨🇴 I'm a Systems Engineer from Cali, Colombia with 6+ years on the job
 
-Here are some ideas to get you started:
+👨‍🎓 I graduated from from [Universidad del Valle](http://eisc.univalle.edu.co/), and now I'm finishing my Master of Engineering degree in Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm Santiago Giraldo Alegría, I'm a Systems Engineer from [Universidad del Valle](http://eisc.univalle.edu.co/), Cali, Colombia 
-
-💻 I’m currently working as
-
-👨‍🎓 MEng student at [Universidad del Valle - EISC](http://ingenieria.univalle.edu.co/maestrias/maestria-en-ingenieria-area-de-enfasis-ingenieria-de-sistemas-y-computacion)
-  - Investigation Thesis in Machine Learning/Neural Networks applied to Earthquake Forecasting
-
-👨‍💼 Senior Consultant at [Gorilla Logic](https://gorillalogic.com/) (Colombia 🇨🇴 - Remote) partnering with 
+💻 I’m currently working as Senior Consultant at [Gorilla Logic](https://gorillalogic.com/) (Colombia 🇨🇴 - Remote) partnering with 
   - [Submittable](https://submittable.com/) as Senior Python Engineer (2022-Now | US 🇺🇸 - Remote)
 
 I worked previously at:
 
-- [Gearplug](https://gearplug.io/en/) as a Software Developer and Python Backend Engineer (2021-2022 | Colombia - Remote)
-- [Universidad Tecnológica de Pereira](https://www.utp.edu.co/) as a Teaching Assistant taking part in [MisionTIC 2022](https://www.misiontic2022.gov.co/) goverment program (2021 | Colombia - Remote)
-- [Univalle](https://www.univalle.edu.co/) in the academic project SIGELO as a Software Engineer and Developer in the creation of a chatbot management application to share COVID highlights (2020 | Colombia - Remote)
+⚙️ [Gearplug](https://gearplug.io/en/) as Python Backend Engineer (2021-2022 | Colombia - Remote)
+🏛️ [Universidad Tecnológica de Pereira](https://www.utp.edu.co/) as a Teaching Assistant taking part in [MisionTIC 2022](https://www.misiontic2022.gov.co/) goverment program (2021 | Colombia - Remote)
+🏛️ [Univalle](https://www.univalle.edu.co/) in the academic project SIGELO as a Software Engineer in the creation of a chatbot management application to share COVID highlights (2020 | Colombia - Remote)
 
 📫 Please reach out on my LinkedIn
 
