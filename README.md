@@ -24,13 +24,12 @@ I worked previously at:
 -->
 
 ### Certificates
-***
+
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/5f037f51e894fe7313b9388424080e54)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-39424e.svg?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/giraldo_santiago)
 [![Efset](https://img.shields.io/badge/EFSet%20English-72/100-%230056D2.svg?style=for-the-badge)](https://www.efset.org/cert/pWdvMy)
 
 ### Skills
-***
 
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
