@@ -36,9 +36,6 @@ I've worked previously at:
 [![Github.io](https://img.shields.io/badge/Github.io-black?logo=github&style=for-the-badge)](https://arkaikus.github.io/)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-2894ff.svg?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/santiagogiraldoalegria)
 [![Torre.co](https://img.shields.io/badge/T-Torre.co-cddc39.svg?style=for-the-badge)](https://torre.co/giraldosantiago)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-39424e.svg?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/giraldo_santiago)
-[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/5f037f51e894fe7313b9388424080e54)
-
 
 ### Certificates
 ***
