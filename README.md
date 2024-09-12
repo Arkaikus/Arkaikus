@@ -60,6 +60,11 @@ I worked previously at:
 ![GitHub](https://img.shields.io/badge/GitHub-Intermediate-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-Intermediate-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+![Pytorch](https://img.shields.io/badge/Pytorch-Intermediate-DE3412?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Intermediate-FF0000?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Intermediate-orange?style=for-the-badge&logo=jupyter&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-Intermediate-4dabcf?style=for-the-badge&logo=numpy&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Basic-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white)
