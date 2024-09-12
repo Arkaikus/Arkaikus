@@ -10,7 +10,9 @@
 I worked previously at:
 
 ⚙️ [Gearplug](https://gearplug.io/en/) as Python Backend Engineer (2021-2022 | Colombia - Remote)
+
 🏛️ [Universidad Tecnológica de Pereira](https://www.utp.edu.co/) as a Teaching Assistant taking part in [MisionTIC 2022](https://www.misiontic2022.gov.co/) goverment program (2021 | Colombia - Remote)
+
 🏛️ [Univalle](https://www.univalle.edu.co/) in the academic project SIGELO as a Software Engineer in the creation of a chatbot management application to share COVID highlights (2020 | Colombia - Remote)
 
 📫 Please reach out on my LinkedIn
