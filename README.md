@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **Arkaikus/Arkaikus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,33 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Santiago Andrés Giraldo Alegría, I'm a Systems Engineer from [Universidad del Valle](http://eisc.univalle.edu.co/), Cali, Colombia 
+I'm Santiago Giraldo Alegría, I'm a Systems Engineer from [Universidad del Valle](http://eisc.univalle.edu.co/), Cali, Colombia 
 
-My current status:
+💻 I’m currently working as
 
-- MEng student at [Universidad del Valle - EISC](http://ingenieria.univalle.edu.co/maestrias/maestria-en-ingenieria-area-de-enfasis-ingenieria-de-sistemas-y-computacion)
+👨‍🎓 MEng student at [Universidad del Valle - EISC](http://ingenieria.univalle.edu.co/maestrias/maestria-en-ingenieria-area-de-enfasis-ingenieria-de-sistemas-y-computacion)
   - Investigation Thesis in Machine Learning/Neural Networks applied to Earthquake Forecasting
 
-- Python Consultant at [Gorilla Logic](https://gorillalogic.com/) (Colombia - Remote) partnering with 
-  - [Submittable](https://submittable.com/) as Python Backend Engineer and Technical Implementation Engineer (2022-Now | US - Remote)
+👨‍💼 Senior Consultant at [Gorilla Logic](https://gorillalogic.com/) (Colombia 🇨🇴 - Remote) partnering with 
+  - [Submittable](https://submittable.com/) as Senior Python Engineer (2022-Now | US 🇺🇸 - Remote)
 
-I've worked previously at:
+I worked previously at:
 
-- [Univalle](https://www.univalle.edu.co/) in the academic project SIGELO as a Software Engineer and Developer in the creation of a chatbot management application to share COVID highlights (2020 | Colombia - Remote)
-- [Universidad Tecnológica de Pereira](https://www.utp.edu.co/) as a Teaching Assistant taking part in [MisionTIC 2022](https://www.misiontic2022.gov.co/) goverment program (2021 | Colombia - Remote)
 - [Gearplug](https://gearplug.io/en/) as a Software Developer and Python Backend Engineer (2021-2022 | Colombia - Remote)
+- [Universidad Tecnológica de Pereira](https://www.utp.edu.co/) as a Teaching Assistant taking part in [MisionTIC 2022](https://www.misiontic2022.gov.co/) goverment program (2021 | Colombia - Remote)
+- [Univalle](https://www.univalle.edu.co/) in the academic project SIGELO as a Software Engineer and Developer in the creation of a chatbot management application to share COVID highlights (2020 | Colombia - Remote)
 
-📫 Here are my different profiles if you're interested, feel free to reach out
+📫 Please reach out on my LinkedIn
 
-[![Github.io](https://img.shields.io/badge/Github.io-black?logo=github&style=for-the-badge)](https://arkaikus.github.io/)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-2894ff.svg?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/santiagogiraldoalegria)
+<!--
+[![Github.io](https://img.shields.io/badge/Github.io-black?logo=github&style=for-the-badge)](https://arkaikus.github.io/)
 [![Torre.co](https://img.shields.io/badge/T-Torre.co-cddc39.svg?style=for-the-badge)](https://torre.co/giraldosantiago)
+-->
 
 ### Certificates
 ***
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-39424e.svg?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/giraldo_santiago)
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/5f037f51e894fe7313b9388424080e54)
-[![Efset](https://img.shields.io/badge/EFSet-English%20Certificate%2072/100-%230056D2.svg?style=for-the-badge)](https://www.efset.org/cert/pWdvMy)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-39424e.svg?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/giraldo_santiago)
+[![Efset](https://img.shields.io/badge/EFSet%20English-72/100-%230056D2.svg?style=for-the-badge)](https://www.efset.org/cert/pWdvMy)
 
 ### Skills
 ***
