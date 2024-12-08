@@ -1,11 +1,11 @@
 ### Hi, nice to meet you 👋
 
-🇨🇴 I'm a Systems Engineer from Cali, Colombia with 6+ years on the job
+I'm a Systems Engineer from Cali, Colombia <img src="https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png" alt="Sample Image" style="width:25px; height:auto;"> with 6+ years on the job
 
 👨‍🎓 I graduated from from [Universidad del Valle](http://eisc.univalle.edu.co/), and now I'm finishing my Master of Engineering degree in Machine Learning
 
 💻 I’m currently working as Senior Consultant at [Gorilla Logic](https://gorillalogic.com/) (Colombia 🇨🇴 - Remote) partnering with 
-  - [Submittable](https://submittable.com/) as Senior Python Engineer (2022-Now | US 🇺🇸 - Remote)
+  - [Submittable](https://submittable.com/) as Senior Python Engineer (2022-Now | US 🇺🇸 - Remote) engineering custom api integrations and leading the technical direction of ProServ's Technical Implementation Team
 
 I worked previously at:
 
