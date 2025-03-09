@@ -2,15 +2,16 @@
 
 I'm a Systems Engineer from Cali, Colombia <img src="https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png" alt="Sample Image" style="width:25px; height:auto;"> with 6+ years of experience in Backend Engineering, Python Development, Machine Learning, and DevOps. Proven ability to deliver high-quality solutions using agile methodologies, automate complex processes, and integrate APIs. Proficient in cloud agnostic technologies, containerization, and CI/CD practices.
 
-💻 I’m currently a Senior Consultant at [Gorilla Logic](https://gorillalogic.com/) (Colombia 🇨🇴 - Remote) , a staffing company, I've partnered with
-* [Submittable](https://submittable.com/) (2022-Now | US 🇺🇸 - Remote), a social impact platform and a grant management system leader, during my tenure with them I've advanced from an automation engineer to a team lead of the Techincal Implementation Engineering team
+👨🏻‍💻 I’m currently a Senior Consultant at [Gorilla Logic](https://gorillalogic.com/) , a staffing company from the US, I've partnered with
+* [Submittable](https://submittable.com/) (2022-Now), a social impact platform and a grant management system leader, during my tenure with them I've advanced from automation engineer to be a team lead of the Techincal Implementation Engineering team
   * Leading and training new hires into internally developed tools and SDLC
   * Engineering api integrations and enabling the technical direction of the team
+  * and much more
 
 Previous Professional Experience:
-* ⚙️ [Gearplug](https://gearplug.io/en/) as Python Backend Engineer (2021-2022 | Colombia - Remote)
-* 🏛️ [Universidad Tecnológica de Pereira](https://www.utp.edu.co/) as a Software Tutor part of the team at [MisionTIC 2022](https://www.misiontic2022.gov.co/) goverment program (2021 | Colombia - Remote)
-* 🏛️ [Univalle](https://www.univalle.edu.co/) as a Software Engineer in the creation of a chatbot management application to share COVID highlights (2020 | Colombia - Remote)
+* ⚙️ [Gearplug](https://gearplug.io/en/) (2021-2022) as Python Backend Engineer, integrating apis and services much like zapier
+* 🏛️ [UTP](https://www.utp.edu.co/) (2021) as a Software Tutor part of the [MisionTIC 2022](https://www.misiontic2022.gov.co/) goverment program team
+* 🏛️ [Univalle](https://www.univalle.edu.co/) (2020) as a Software Engineer in the creation of a chatbot management application to share COVID highlights 
 
 Education:
 * 👨‍🎓 I graduated from [Universidad del Valle](http://eisc.univalle.edu.co/) on both Systems' Engineering (2020) and Master of Engineering (2025) 
