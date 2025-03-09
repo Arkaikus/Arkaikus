@@ -1,27 +1,23 @@
 ### Hi, nice to meet you 👋
 
-I'm a Systems Engineer from Cali, Colombia <img src="https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png" alt="Sample Image" style="width:25px; height:auto;"> with 6+ years on the job
+I'm a Systems Engineer from Cali, Colombia <img src="https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png" alt="Sample Image" style="width:25px; height:auto;"> with 6+ years of experience in Backend Engineering, Python Development, Machine Learning, and DevOps. Proven ability to deliver high-quality solutions using agile methodologies, automate complex processes, and integrate APIs. Proficient in cloud agnostic technologies, containerization, and CI/CD practices.
 
-👨‍🎓 I graduated from from [Universidad del Valle](http://eisc.univalle.edu.co/), and now I'm finishing my Master of Engineering degree in Machine Learning
+💻 I’m currently a Senior Consultant at [Gorilla Logic](https://gorillalogic.com/) (Colombia 🇨🇴 - Remote) , a staffing company, I've partnered with
+* [Submittable](https://submittable.com/) (2022-Now | US 🇺🇸 - Remote), a social impact platform and a grant management system leader, during my tenure with them I've advanced from an automation engineer to a team lead of the Techincal Implementation Engineering team
+  * Leading and training new hires into internally developed tools and SDLC
+  * Engineering api integrations and enabling the technical direction of the team
 
-💻 I’m currently working as Senior Consultant at [Gorilla Logic](https://gorillalogic.com/) (Colombia 🇨🇴 - Remote) partnering with 
-  - [Submittable](https://submittable.com/) as Senior Python Engineer (2022-Now | US 🇺🇸 - Remote) engineering custom api integrations and leading the technical direction of ProServ's Technical Implementation Team
+Previous Professional Experience:
+* ⚙️ [Gearplug](https://gearplug.io/en/) as Python Backend Engineer (2021-2022 | Colombia - Remote)
+* 🏛️ [Universidad Tecnológica de Pereira](https://www.utp.edu.co/) as a Teaching Assistant taking part in [MisionTIC 2022](https://www.misiontic2022.gov.co/) goverment program (2021 | Colombia - Remote)
+* 🏛️ [Univalle](https://www.univalle.edu.co/) in the academic project SIGELO as a Software Engineer in the creation of a chatbot management application to share COVID highlights (2020 | Colombia - Remote)
 
-I worked previously at:
-
-⚙️ [Gearplug](https://gearplug.io/en/) as Python Backend Engineer (2021-2022 | Colombia - Remote)
-
-🏛️ [Universidad Tecnológica de Pereira](https://www.utp.edu.co/) as a Teaching Assistant taking part in [MisionTIC 2022](https://www.misiontic2022.gov.co/) goverment program (2021 | Colombia - Remote)
-
-🏛️ [Univalle](https://www.univalle.edu.co/) in the academic project SIGELO as a Software Engineer in the creation of a chatbot management application to share COVID highlights (2020 | Colombia - Remote)
+Education:
+* 👨‍🎓 I graduated from [Universidad del Valle](http://eisc.univalle.edu.co/) on both Systems' Engineering (2020) and Master of Engineering (2025) 
 
 📫 Please reach out on my LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-2894ff.svg?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/santiagogiraldoalegria)
-<!--
-[![Github.io](https://img.shields.io/badge/Github.io-black?logo=github&style=for-the-badge)](https://arkaikus.github.io/)
-[![Torre.co](https://img.shields.io/badge/T-Torre.co-cddc39.svg?style=for-the-badge)](https://torre.co/giraldosantiago)
--->
 
 ### Certificates
 
