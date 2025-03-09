@@ -9,8 +9,8 @@ I'm a Systems Engineer from Cali, Colombia <img src="https://www.countryflags.co
 
 Previous Professional Experience:
 * ⚙️ [Gearplug](https://gearplug.io/en/) as Python Backend Engineer (2021-2022 | Colombia - Remote)
-* 🏛️ [Universidad Tecnológica de Pereira](https://www.utp.edu.co/) as a Teaching Assistant taking part in [MisionTIC 2022](https://www.misiontic2022.gov.co/) goverment program (2021 | Colombia - Remote)
-* 🏛️ [Univalle](https://www.univalle.edu.co/) in the academic project SIGELO as a Software Engineer in the creation of a chatbot management application to share COVID highlights (2020 | Colombia - Remote)
+* 🏛️ [Universidad Tecnológica de Pereira](https://www.utp.edu.co/) as a Software Tutor part of the team at [MisionTIC 2022](https://www.misiontic2022.gov.co/) goverment program (2021 | Colombia - Remote)
+* 🏛️ [Univalle](https://www.univalle.edu.co/) as a Software Engineer in the creation of a chatbot management application to share COVID highlights (2020 | Colombia - Remote)
 
 Education:
 * 👨‍🎓 I graduated from [Universidad del Valle](http://eisc.univalle.edu.co/) on both Systems' Engineering (2020) and Master of Engineering (2025) 
