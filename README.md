@@ -18,7 +18,7 @@ Education:
 
 📫 Please reach out on my LinkedIn
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-2894ff.svg?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/santiagogiraldoalegria)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/santiagogiraldoalegria)
 
 ### Certificates
 
@@ -28,29 +28,36 @@ Education:
 
 ### Skills
 
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Advanced-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-Intermediate-3E8E41?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastApi-Intermediate-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![GitKraken](https://img.shields.io/badge/GitKraken-Intermediate-008CBA?style=for-the-badge&logo=gitkraken&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Intermediate-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-Intermediate-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+[![Python](https://skillicons.dev/icons?i=python)]()
+[![Pytorch](https://skillicons.dev/icons?i=pytorch)]()
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)]()
+[![Django](https://skillicons.dev/icons?i=django)]()
+[![JavaScript](https://skillicons.dev/icons?i=javascript)]()
+[![React](https://skillicons.dev/icons?i=react)]()
+[![Docker](https://skillicons.dev/icons?i=docker)]()
+[![Git](https://skillicons.dev/icons?i=git)]()
+[![GitHub](https://skillicons.dev/icons?i=github)]()
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)]()
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)]()
+[![Go](https://skillicons.dev/icons?i=golang)]()
 
-![Pytorch](https://img.shields.io/badge/Pytorch-Intermediate-DE3412?style=for-the-badge&logo=pytorch&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-Intermediate-008CBA?style=for-the-badge&logo=gitkraken&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Intermediate-FF0000?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Intermediate-orange?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-Intermediate-4dabcf?style=for-the-badge&logo=numpy&logoColor=white)
+![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-Intermediate-3E8E41?style=for-the-badge&logo=django&logoColor=white)
 
-![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Basic-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-Intermediate-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-Intermediate-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+---
+
+#### More Skills
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)]()
+[![TypeScript](https://skillicons.dev/icons?i=typescript)]()
+[![PHP](https://skillicons.dev/icons?i=php)]()
+[![HTML](https://skillicons.dev/icons?i=html)]()
+[![CSS](https://skillicons.dev/icons?i=css)]()
+[![C++](https://skillicons.dev/icons?i=cpp)]()
+[![Java](https://skillicons.dev/icons?i=java)]()
+[![Ruby](https://skillicons.dev/icons?i=ruby)]()
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]()
+[![Bitbucket](https://skillicons.dev/icons?i=bitbucket)]()
+
