@@ -20,16 +20,16 @@ I'm a Systems Engineer and Master of Engineering from Cali, Colombia <img src="h
 ![Numpy](https://img.shields.io/badge/Numpy-Intermediate-4dabcf?style=for-the-badge&logo=numpy&logoColor=white)
 ![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-Intermediate-3E8E41?style=for-the-badge&logo=django&logoColor=white)
 
-📫 Let's connect on Linkedin!
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/santiagogiraldoalegria)
-
 ### Current Role
 👨🏻‍💻 I’m currently a Senior Consultant at [Gorilla Logic](https://gorillalogic.com/) , a staffing company from the US, I've partnered with
 * [Submittable](https://submittable.com/) (2022-Now), a social impact platform and a grant management system leader, during my tenure with them I've advanced from automation engineer to be a team lead of the Techincal Implementation Engineering team
   * Leading and training new hires into internally developed tools and SDLC
   * Engineering api integrations and enabling the technical direction of the team
   * and much more
+
+📫 Let's connect on Linkedin!
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/santiagogiraldoalegria)
 
 ### Previous Roles:
 * ⚙️ [Gearplug](https://gearplug.io/en/) (2021-2022) as Python Backend Engineer, integrating apis and services much like zapier
