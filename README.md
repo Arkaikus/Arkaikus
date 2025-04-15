@@ -1,6 +1,6 @@
 ### Hi, nice to meet you 👋
 
-I'm a Systems Engineer from Cali, Colombia <img src="https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png" alt="Sample Image" style="width:25px; height:auto;"> with 6+ years of experience in Backend Engineering, Python Development, DevOps, and more recently Machine Learning. Proven ability to deliver high-quality solutions using agile methodologies, automate complex processes, and integrate APIs. Proficient in cloud agnostic technologies, containerization, and CI/CD practices.
+I'm a Systems Engineer and Master of Engineering from Cali, Colombia <img src="https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png" alt="Sample Image" style="width:25px; height:auto;"> with extensive experience in Backend Engineering, Enginering of solutions with Python, DevOps, and more recently Machine Learning. Proven ability to deliver high-quality solutions using agile methodologies, automating complex processes and integrating APIs. Proficient in cloud agnostic technologies, containerization, and DevOps practices like CI/CD.
 
 👨🏻‍💻 I’m currently a Senior Consultant at [Gorilla Logic](https://gorillalogic.com/) , a staffing company from the US, I've partnered with
 * [Submittable](https://submittable.com/) (2022-Now), a social impact platform and a grant management system leader, during my tenure with them I've advanced from automation engineer to be a team lead of the Techincal Implementation Engineering team
