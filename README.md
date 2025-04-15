@@ -28,18 +28,18 @@ Education:
 
 ### Skills
 
-[![Python](https://skillicons.dev/icons?i=python)]()
-[![Pytorch](https://skillicons.dev/icons?i=pytorch)]()
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)]()
-[![Django](https://skillicons.dev/icons?i=django)]()
-[![JavaScript](https://skillicons.dev/icons?i=javascript)]()
-[![React](https://skillicons.dev/icons?i=react)]()
-[![Docker](https://skillicons.dev/icons?i=docker)]()
-[![Git](https://skillicons.dev/icons?i=git)]()
-[![GitHub](https://skillicons.dev/icons?i=github)]()
-[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)]()
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)]()
-[![Go](https://skillicons.dev/icons?i=golang)]()
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Pytorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com/)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Go](https://skillicons.dev/icons?i=golang)](https://go.dev/)
 
 ![GitKraken](https://img.shields.io/badge/GitKraken-Intermediate-008CBA?style=for-the-badge&logo=gitkraken&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Intermediate-FF0000?style=for-the-badge&logo=pandas&logoColor=white)
@@ -50,14 +50,15 @@ Education:
 ---
 
 #### More Skills
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)]()
-[![TypeScript](https://skillicons.dev/icons?i=typescript)]()
-[![PHP](https://skillicons.dev/icons?i=php)]()
-[![HTML](https://skillicons.dev/icons?i=html)]()
-[![CSS](https://skillicons.dev/icons?i=css)]()
-[![C++](https://skillicons.dev/icons?i=cpp)]()
-[![Java](https://skillicons.dev/icons?i=java)]()
-[![Ruby](https://skillicons.dev/icons?i=ruby)]()
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)]()
-[![Bitbucket](https://skillicons.dev/icons?i=bitbucket)]()
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
+[![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org/en/)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://bitbucket.org/)
+
 
