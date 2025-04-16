@@ -1,6 +1,6 @@
 ### Hi, nice to meet you 👋
 
-I'm a Systems Engineer and Master of Engineering from Cali, Colombia <img src="https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png" alt="Sample Image" style="width:25px; height:auto;"> with extensive experience in Backend Engineering, Enginering of solutions with Python, DevOps, and more recently Machine Learning. Proven ability to deliver high-quality solutions using agile methodologies, automating complex processes and integrating APIs. Proficient in cloud agnostic technologies, containerization, and DevOps practices like CI/CD. The main technologies I interact with day to day are the following
+I'm a Systems Engineer and Master of Engineering from Cali, Colombia 🇨🇴 with extensive experience in Backend Engineering, Enginering of solutions with Python, DevOps, and more recently Machine Learning. Proven ability to deliver high-quality solutions using agile methodologies, automating complex processes and integrating APIs. Proficient in cloud agnostic technologies, containerization, and DevOps practices like CI/CD. The main technologies I interact with day to day are the following
 
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Pytorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
