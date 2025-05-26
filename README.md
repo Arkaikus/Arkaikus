@@ -21,8 +21,9 @@ I'm a Systems Engineer and Master of Engineering from Cali, Colombia 🇨🇴 wi
 ![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-Intermediate-3E8E41?style=for-the-badge&logo=django&logoColor=white)
 
 ### Current Role
-👨🏻‍💻 I’m currently a Senior Consultant at [Gorilla Logic](https://gorillalogic.com/) , a staffing company from the US, I've partnered with
-* [Submittable](https://submittable.com/) (2022-Now), a social impact platform and a grant management system leader, during my tenure with them I've advanced from automation engineer to be a team lead of the Techincal Implementation Engineering team
+👨🏻‍💻 I’m currently a Senior Consultant at [Gorilla Logic](https://gorillalogic.com/), a staffing company from the US, where I've partnered with
+* [Shadow Dragon](https://shadowdragon.io/) (Now), a security provider that provides tools for investigators, as a Team Lead of Gorilla Logic engineers
+* [Submittable](https://submittable.com/) (2022-2025), a social impact platform and a grant management system leader, during my tenure with them I've advanced from automation engineer to be a team lead of the Techincal Implementation Engineering team
   * Leading and training new hires into internally developed tools and SDLC
   * Engineering api integrations and enabling the technical direction of the team
   * and much more
