@@ -3,11 +3,9 @@
 I'm a MSc Systems Engineer from Cali, Colombia 🇨🇴 with 7+ years of experience automating processes and solving real-world problems with python and most recently AI (machine learning and LLMs). Proven ability leading engineers to deliver high-quality solutions, implementing agile practices, and integrating different systems and APIs.
 
 Core Expertise & Leadership
-🤖 Python & AI: Building APIs and web services and leading the internal AI adoption strategy at Gorilla Logic.
-
-🏗️ DevOps & Infrastructure: Building CI/CD pipelines from scratch using Docker and Kubernetes to automate deployments.
-
-⚛️ Frontend & Prototyping: Using React and AI tools to quickly turn ideas into functional frontend prototypes.
+* 🤖 Python & AI: Building APIs and web services and leading the internal AI adoption strategy at Gorilla Logic.
+* 🏗️ DevOps & Infrastructure: Building CI/CD pipelines from scratch using Docker and Kubernetes to automate deployments.
+* ⚛️ Frontend & Prototyping: Using React and AI tools to quickly turn ideas into functional frontend prototypes.
 
 ### Technical Toolbox
 
