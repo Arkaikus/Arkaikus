@@ -52,7 +52,7 @@ Currently leading a remote engineering team as **Senior Python Team Lead**.
 
 
 ### Education:
-* 👨‍🎓 I graduated from [Universidad del Valle](http://eisc.univalle.edu.co/) on both Systems' Engineering (2020) and Master of Engineering (2025) 
+* 👨‍🎓 I graduated from [Universidad del Valle](http://eisc.univalle.edu.co/) on both BSc Systems Engineering (2020) and MSc Systems Engineering (2025) 
 
 ### Certificates
 
